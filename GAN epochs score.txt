@@ -1,0 +1,1077 @@
+100%
+196/196 [52:28<00:00, 16.06s/it]
+
+Epoch [1/500], loss_g: 1.8274, loss_d: 1.7872, real_score: 0.2460, fake_score: 0.0220
+Saving generated-images-0001.png
+100%
+196/196 [30:47<00:00, 9.43s/it]
+
+Epoch [2/500], loss_g: 2.9905, loss_d: 0.8476, real_score: 0.6525, fake_score: 0.2576
+Saving generated-images-0002.png
+100%
+196/196 [33:32:15<00:00, 616.00s/it]
+
+Epoch [3/500], loss_g: 2.1425, loss_d: 0.8092, real_score: 0.6511, fake_score: 0.2245
+Saving generated-images-0003.png
+100%
+196/196 [34:39<00:00, 10.61s/it]
+
+Epoch [4/500], loss_g: 1.6930, loss_d: 0.9139, real_score: 0.5463, fake_score: 0.1704
+Saving generated-images-0004.png
+100%
+196/196 [7:25:59<00:00, 136.53s/it]
+
+Epoch [5/500], loss_g: 3.9764, loss_d: 0.7949, real_score: 0.8669, fake_score: 0.4225
+Saving generated-images-0005.png
+100%
+196/196 [23:54<00:00, 7.32s/it]
+
+Epoch [6/500], loss_g: 1.7837, loss_d: 0.7071, real_score: 0.6836, fake_score: 0.2060
+Saving generated-images-0006.png
+100%
+196/196 [6:36:09<00:00, 121.27s/it]
+
+Epoch [7/500], loss_g: 0.1951, loss_d: 2.4587, real_score: 0.1386, fake_score: 0.0178
+Saving generated-images-0007.png
+100%
+196/196 [22:35<00:00, 6.91s/it]
+
+Epoch [8/500], loss_g: 2.2373, loss_d: 0.7768, real_score: 0.5957, fake_score: 0.1171
+Saving generated-images-0008.png
+100%
+196/196 [5:51:47<00:00, 107.69s/it]
+
+Epoch [9/500], loss_g: 4.7114, loss_d: 0.7859, real_score: 0.9184, fake_score: 0.4423
+Saving generated-images-0009.png
+100%
+196/196 [21:56<00:00, 6.72s/it]
+
+Epoch [10/500], loss_g: 3.3710, loss_d: 0.3490, real_score: 0.8679, fake_score: 0.1626
+Saving generated-images-0010.png
+100%
+196/196 [5:07:42<00:00, 94.19s/it]
+
+Epoch [11/500], loss_g: 3.1704, loss_d: 0.5498, real_score: 0.9288, fake_score: 0.3300
+Saving generated-images-0011.png
+100%
+196/196 [22:52<00:00, 7.00s/it]
+
+Epoch [12/500], loss_g: 0.8024, loss_d: 0.7302, real_score: 0.6038, fake_score: 0.1131
+Saving generated-images-0012.png
+100%
+196/196 [4:23:05<00:00, 80.54s/it]
+
+Epoch [13/500], loss_g: 2.4645, loss_d: 0.3436, real_score: 0.8088, fake_score: 0.1037
+Saving generated-images-0013.png
+100%
+196/196 [3:59:30<00:00, 73.32s/it]
+
+Epoch [14/500], loss_g: 3.5755, loss_d: 0.4769, real_score: 0.9457, fake_score: 0.3069
+Saving generated-images-0014.png
+100%
+196/196 [21:53<00:00, 6.70s/it]
+
+Epoch [15/500], loss_g: 1.9239, loss_d: 0.7332, real_score: 0.6212, fake_score: 0.0580
+Saving generated-images-0015.png
+100%
+196/196 [3:15:57<00:00, 59.99s/it]
+
+Epoch [16/500], loss_g: 3.1300, loss_d: 0.9432, real_score: 0.6803, fake_score: 0.2754
+Saving generated-images-0016.png
+100%
+196/196 [21:59<00:00, 6.73s/it]
+
+Epoch [17/500], loss_g: 2.0758, loss_d: 0.5477, real_score: 0.6842, fake_score: 0.0503
+Saving generated-images-0017.png
+100%
+196/196 [2:32:21<00:00, 46.64s/it]
+
+Epoch [18/500], loss_g: 2.2078, loss_d: 0.5008, real_score: 0.7249, fake_score: 0.1099
+Saving generated-images-0018.png
+100%
+196/196 [22:23<00:00, 6.85s/it]
+
+Epoch [19/500], loss_g: 3.4172, loss_d: 0.4136, real_score: 0.8892, fake_score: 0.2130
+Saving generated-images-0019.png
+100%
+196/196 [1:48:35<00:00, 33.24s/it]
+
+Epoch [20/500], loss_g: 2.5525, loss_d: 0.3987, real_score: 0.7419, fake_score: 0.0426
+Saving generated-images-0020.png
+100%
+196/196 [21:35<00:00, 6.61s/it]
+
+Epoch [21/500], loss_g: 4.4509, loss_d: 0.2972, real_score: 0.9704, fake_score: 0.2008
+Saving generated-images-0021.png
+100%
+196/196 [1:05:25<00:00, 20.03s/it]
+
+Epoch [22/500], loss_g: 2.9733, loss_d: 0.3157, real_score: 0.8516, fake_score: 0.1160
+Saving generated-images-0022.png
+100%
+196/196 [43:31<00:00, 13.32s/it]
+
+Epoch [23/500], loss_g: 2.6267, loss_d: 0.5149, real_score: 0.6551, fake_score: 0.0134
+Saving generated-images-0023.png
+100%
+196/196 [22:11<00:00, 6.79s/it]
+
+Epoch [24/500], loss_g: 0.7368, loss_d: 1.0093, real_score: 0.4469, fake_score: 0.0146
+Saving generated-images-0024.png
+100%
+196/196 [24:56:51<00:00, 458.22s/it]
+
+Epoch [25/500], loss_g: 2.4728, loss_d: 0.3274, real_score: 0.8328, fake_score: 0.0998
+Saving generated-images-0025.png
+100%
+196/196 [22:45<00:00, 6.97s/it]
+
+Epoch [26/500], loss_g: 1.4189, loss_d: 1.1480, real_score: 0.4934, fake_score: 0.0561
+Saving generated-images-0026.png
+100%
+196/196 [7:26:16<00:00, 136.62s/it]
+
+Epoch [27/500], loss_g: 0.9167, loss_d: 0.9636, real_score: 0.4863, fake_score: 0.0225
+Saving generated-images-0027.png
+100%
+196/196 [21:46<00:00, 6.67s/it]
+
+Epoch [28/500], loss_g: 6.0013, loss_d: 1.0354, real_score: 0.9923, fake_score: 0.5237
+Saving generated-images-0028.png
+100%
+196/196 [6:43:11<00:00, 123.43s/it]
+
+Epoch [29/500], loss_g: 2.5242, loss_d: 0.5092, real_score: 0.7273, fake_score: 0.0978
+Saving generated-images-0029.png
+100%
+196/196 [22:36<00:00, 6.92s/it]
+
+Epoch [30/500], loss_g: 3.9256, loss_d: 0.2525, real_score: 0.9386, fake_score: 0.1474
+Saving generated-images-0030.png
+100%
+196/196 [5:59:16<00:00, 109.98s/it]
+
+Epoch [31/500], loss_g: 3.1068, loss_d: 0.2079, real_score: 0.8788, fake_score: 0.0562
+Saving generated-images-0031.png
+100%
+196/196 [5:34:58<00:00, 102.54s/it]
+
+Epoch [32/500], loss_g: 2.4748, loss_d: 0.5640, real_score: 0.7671, fake_score: 0.1669
+Saving generated-images-0032.png
+100%
+196/196 [21:58<00:00, 6.72s/it]
+
+Epoch [33/500], loss_g: 2.8636, loss_d: 0.2422, real_score: 0.8648, fake_score: 0.0717
+Saving generated-images-0033.png
+100%
+196/196 [4:50:47<00:00, 89.02s/it]
+
+Epoch [34/500], loss_g: 7.8742, loss_d: 3.7763, real_score: 0.9985, fake_score: 0.9172
+Saving generated-images-0034.png
+100%
+196/196 [22:05<00:00, 6.76s/it]
+
+Epoch [35/500], loss_g: 2.2333, loss_d: 0.4263, real_score: 0.8037, fake_score: 0.1205
+Saving generated-images-0035.png
+100%
+196/196 [4:07:17<00:00, 75.70s/it]
+
+Epoch [36/500], loss_g: 1.8959, loss_d: 1.1539, real_score: 0.5076, fake_score: 0.0820
+Saving generated-images-0036.png
+100%
+196/196 [22:11<00:00, 6.79s/it]
+
+Epoch [37/500], loss_g: 5.6830, loss_d: 0.8390, real_score: 0.9873, fake_score: 0.4658
+Saving generated-images-0037.png
+100%
+196/196 [3:23:33<00:00, 62.31s/it]
+
+Epoch [38/500], loss_g: 4.0985, loss_d: 0.1375, real_score: 0.8988, fake_score: 0.0209
+Saving generated-images-0038.png
+100%
+196/196 [26:16<00:00, 8.04s/it]
+
+Epoch [39/500], loss_g: 3.2263, loss_d: 1.1180, real_score: 0.7024, fake_score: 0.3581
+Saving generated-images-0039.png
+100%
+196/196 [2:33:13<00:00, 46.91s/it]
+
+Epoch [40/500], loss_g: 1.2778, loss_d: 0.3673, real_score: 0.7472, fake_score: 0.0235
+Saving generated-images-0040.png
+100%
+196/196 [2:10:57<00:00, 40.09s/it]
+
+Epoch [41/500], loss_g: 4.6914, loss_d: 0.1099, real_score: 0.9797, fake_score: 0.0747
+Saving generated-images-0041.png
+100%
+196/196 [21:41<00:00, 6.64s/it]
+
+Epoch [42/500], loss_g: 3.3377, loss_d: 0.2740, real_score: 0.9006, fake_score: 0.1276
+Saving generated-images-0042.png
+100%
+196/196 [1:27:37<00:00, 26.83s/it]
+
+Epoch [43/500], loss_g: 1.6306, loss_d: 0.7909, real_score: 0.5700, fake_score: 0.0108
+Saving generated-images-0043.png
+100%
+196/196 [22:00<00:00, 6.74s/it]
+
+Epoch [44/500], loss_g: 4.6048, loss_d: 0.3678, real_score: 0.9211, fake_score: 0.1975
+Saving generated-images-0044.png
+100%
+196/196 [44:01<00:00, 13.48s/it]
+
+Epoch [45/500], loss_g: 5.5233, loss_d: 0.6938, real_score: 0.9907, fake_score: 0.3785
+Saving generated-images-0045.png
+100%
+196/196 [22:35<00:00, 6.92s/it]
+
+Epoch [46/500], loss_g: 3.9176, loss_d: 0.1674, real_score: 0.9289, fake_score: 0.0729
+Saving generated-images-0046.png
+100%
+196/196 [16:47:16<00:00, 308.35s/it]
+
+Epoch [47/500], loss_g: 5.1862, loss_d: 0.8124, real_score: 0.9028, fake_score: 0.3654
+Saving generated-images-0047.png
+100%
+196/196 [27:41<00:00, 8.48s/it]
+
+Epoch [48/500], loss_g: 3.8057, loss_d: 0.0953, real_score: 0.9582, fake_score: 0.0475
+Saving generated-images-0048.png
+100%
+196/196 [7:08:10<00:00, 131.07s/it]
+
+Epoch [49/500], loss_g: 7.0144, loss_d: 0.1058, real_score: 0.9150, fake_score: 0.0110
+Saving generated-images-0049.png
+100%
+196/196 [6:45:59<00:00, 124.28s/it]
+
+Epoch [50/500], loss_g: 4.3155, loss_d: 0.2225, real_score: 0.8985, fake_score: 0.0769
+Saving generated-images-0050.png
+100%
+196/196 [22:06<00:00, 6.77s/it]
+
+Epoch [51/500], loss_g: 0.1930, loss_d: 2.9694, real_score: 0.1737, fake_score: 0.0044
+Saving generated-images-0051.png
+100%
+196/196 [6:02:13<00:00, 110.88s/it]
+
+Epoch [52/500], loss_g: 4.7114, loss_d: 0.2128, real_score: 0.9826, fake_score: 0.1515
+Saving generated-images-0052.png
+100%
+196/196 [21:50<00:00, 6.69s/it]
+
+Epoch [53/500], loss_g: 6.2110, loss_d: 0.0441, real_score: 0.9841, fake_score: 0.0261
+Saving generated-images-0053.png
+100%
+196/196 [5:19:04<00:00, 97.67s/it]
+
+Epoch [54/500], loss_g: 2.1834, loss_d: 0.5724, real_score: 0.8042, fake_score: 0.1470
+Saving generated-images-0054.png
+100%
+196/196 [21:43<00:00, 6.65s/it]
+
+Epoch [55/500], loss_g: 1.8251, loss_d: 0.5836, real_score: 0.7211, fake_score: 0.0858
+Saving generated-images-0055.png
+100%
+196/196 [4:36:12<00:00, 84.55s/it]
+
+Epoch [56/500], loss_g: 6.6980, loss_d: 0.2742, real_score: 0.9716, fake_score: 0.1697
+Saving generated-images-0056.png
+100%
+196/196 [22:21<00:00, 6.84s/it]
+
+Epoch [57/500], loss_g: 2.8146, loss_d: 0.2774, real_score: 0.7981, fake_score: 0.0166
+Saving generated-images-0057.png
+100%
+196/196 [3:51:49<00:00, 70.97s/it]
+
+Epoch [58/500], loss_g: 0.9649, loss_d: 1.0616, real_score: 0.4637, fake_score: 0.0043
+Saving generated-images-0058.png
+100%
+196/196 [3:30:21<00:00, 64.39s/it]
+
+Epoch [59/500], loss_g: 3.1052, loss_d: 0.3842, real_score: 0.7642, fake_score: 0.0296
+Saving generated-images-0059.png
+100%
+196/196 [22:33<00:00, 6.91s/it]
+
+Epoch [60/500], loss_g: 4.6180, loss_d: 0.0469, real_score: 0.9943, fake_score: 0.0385
+Saving generated-images-0060.png
+100%
+196/196 [2:45:56<00:00, 50.80s/it]
+
+Epoch [61/500], loss_g: 4.2461, loss_d: 0.3951, real_score: 0.8932, fake_score: 0.1806
+Saving generated-images-0061.png
+100%
+196/196 [23:43<00:00, 7.26s/it]
+
+Epoch [62/500], loss_g: 1.6334, loss_d: 0.3295, real_score: 0.7794, fake_score: 0.0261
+Saving generated-images-0062.png
+100%
+196/196 [2:00:49<00:00, 36.98s/it]
+
+Epoch [63/500], loss_g: 5.0961, loss_d: 0.0802, real_score: 0.9717, fake_score: 0.0464
+Saving generated-images-0063.png
+100%
+196/196 [23:19<00:00, 7.14s/it]
+
+Epoch [64/500], loss_g: 4.8355, loss_d: 0.0597, real_score: 0.9668, fake_score: 0.0231
+Saving generated-images-0064.png
+100%
+196/196 [1:14:54<00:00, 22.93s/it]
+
+Epoch [65/500], loss_g: 3.0334, loss_d: 0.1378, real_score: 0.8985, fake_score: 0.0149
+Saving generated-images-0065.png
+100%
+196/196 [23:07<00:00, 7.08s/it]
+
+Epoch [66/500], loss_g: 3.8828, loss_d: 0.2336, real_score: 0.8350, fake_score: 0.0287
+Saving generated-images-0066.png
+100%
+196/196 [29:03<00:00, 8.90s/it]
+
+Epoch [67/500], loss_g: 1.7743, loss_d: 1.0983, real_score: 0.5161, fake_score: 0.0293
+Saving generated-images-0067.png
+100%
+196/196 [9:01:45<00:00, 165.85s/it]
+
+Epoch [68/500], loss_g: 3.4666, loss_d: 0.2048, real_score: 0.8532, fake_score: 0.0249
+Saving generated-images-0068.png
+100%
+196/196 [23:18<00:00, 7.14s/it]
+
+Epoch [69/500], loss_g: 9.4391, loss_d: 0.5233, real_score: 0.9956, fake_score: 0.3300
+Saving generated-images-0069.png
+100%
+196/196 [7:30:55<00:00, 138.04s/it]
+
+Epoch [70/500], loss_g: 3.8391, loss_d: 0.0938, real_score: 0.9296, fake_score: 0.0153
+Saving generated-images-0070.png
+100%
+196/196 [22:58<00:00, 7.03s/it]
+
+Epoch [71/500], loss_g: 3.3438, loss_d: 0.4193, real_score: 0.8172, fake_score: 0.1012
+Saving generated-images-0071.png
+100%
+196/196 [6:45:52<00:00, 124.25s/it]
+
+Epoch [72/500], loss_g: 4.1423, loss_d: 0.1860, real_score: 0.9520, fake_score: 0.1073
+Saving generated-images-0072.png
+100%
+196/196 [22:42<00:00, 6.95s/it]
+
+Epoch [73/500], loss_g: 2.7629, loss_d: 0.0939, real_score: 0.9427, fake_score: 0.0299
+Saving generated-images-0073.png
+100%
+196/196 [6:00:53<00:00, 110.48s/it]
+
+Epoch [74/500], loss_g: 4.9143, loss_d: 0.0789, real_score: 0.9579, fake_score: 0.0316
+Saving generated-images-0074.png
+100%
+196/196 [22:38<00:00, 6.93s/it]
+
+Epoch [75/500], loss_g: 3.2314, loss_d: 0.1712, real_score: 0.8773, fake_score: 0.0229
+Saving generated-images-0075.png
+100%
+196/196 [5:15:55<00:00, 96.71s/it]
+
+Epoch [76/500], loss_g: 4.2401, loss_d: 0.2079, real_score: 0.9200, fake_score: 0.0512
+Saving generated-images-0076.png
+100%
+196/196 [4:53:29<00:00, 89.84s/it]
+
+Epoch [77/500], loss_g: 1.8380, loss_d: 0.2055, real_score: 0.8453, fake_score: 0.0147
+Saving generated-images-0077.png
+100%
+196/196 [22:57<00:00, 7.03s/it]
+
+Epoch [78/500], loss_g: 5.1437, loss_d: 0.0426, real_score: 0.9908, fake_score: 0.0311
+Saving generated-images-0078.png
+100%
+196/196 [4:08:31<00:00, 76.08s/it]
+
+Epoch [79/500], loss_g: 3.2463, loss_d: 0.3313, real_score: 0.8845, fake_score: 0.0830
+Saving generated-images-0079.png
+100%
+196/196 [23:07<00:00, 7.08s/it]
+
+Epoch [80/500], loss_g: 5.8509, loss_d: 0.0790, real_score: 0.9678, fake_score: 0.0385
+Saving generated-images-0080.png
+100%
+196/196 [3:23:03<00:00, 62.16s/it]
+
+Epoch [81/500], loss_g: 5.0217, loss_d: 0.0880, real_score: 0.9685, fake_score: 0.0491
+Saving generated-images-0081.png
+100%
+196/196 [22:25<00:00, 6.86s/it]
+
+Epoch [82/500], loss_g: 5.4486, loss_d: 0.0966, real_score: 0.9803, fake_score: 0.0628
+Saving generated-images-0082.png
+100%
+196/196 [2:36:48<00:00, 48.00s/it]
+
+Epoch [83/500], loss_g: 5.8587, loss_d: 0.1180, real_score: 0.9275, fake_score: 0.0195
+Saving generated-images-0083.png
+100%
+196/196 [22:32<00:00, 6.90s/it]
+
+Epoch [84/500], loss_g: 9.6282, loss_d: 1.0853, real_score: 0.9980, fake_score: 0.4851
+Saving generated-images-0084.png
+100%
+196/196 [1:52:01<00:00, 34.29s/it]
+
+Epoch [85/500], loss_g: 3.6429, loss_d: 0.0803, real_score: 0.9435, fake_score: 0.0158
+Saving generated-images-0085.png
+100%
+196/196 [1:29:45<00:00, 27.48s/it]
+
+Epoch [86/500], loss_g: 5.3231, loss_d: 0.0172, real_score: 0.9927, fake_score: 0.0095
+Saving generated-images-0086.png
+100%
+196/196 [22:42<00:00, 6.95s/it]
+
+Epoch [87/500], loss_g: 2.0928, loss_d: 0.3649, real_score: 0.7763, fake_score: 0.0440
+Saving generated-images-0087.png
+100%
+196/196 [45:04<00:00, 13.80s/it]
+
+Epoch [88/500], loss_g: 5.1834, loss_d: 0.0529, real_score: 0.9935, fake_score: 0.0373
+Saving generated-images-0088.png
+100%
+196/196 [22:44<00:00, 6.96s/it]
+
+Epoch [89/500], loss_g: 5.1353, loss_d: 0.0606, real_score: 0.9642, fake_score: 0.0153
+Saving generated-images-0089.png
+100%
+196/196 [45:24<00:00, 13.90s/it]
+
+Epoch [90/500], loss_g: 2.7532, loss_d: 0.1598, real_score: 0.9089, fake_score: 0.0195
+Saving generated-images-0090.png
+100%
+196/196 [23:01<00:00, 7.05s/it]
+
+Epoch [91/500], loss_g: 0.8631, loss_d: 0.6360, real_score: 0.6776, fake_score: 0.0377
+Saving generated-images-0091.png
+100%
+196/196 [22:21<00:00, 6.84s/it]
+
+Epoch [92/500], loss_g: 5.1214, loss_d: 0.0854, real_score: 0.9506, fake_score: 0.0249
+Saving generated-images-0092.png
+100%
+196/196 [22:32<00:00, 6.90s/it]
+
+Epoch [93/500], loss_g: 5.2112, loss_d: 0.0730, real_score: 0.9424, fake_score: 0.0099
+Saving generated-images-0093.png
+100%
+196/196 [7:12:55<00:00, 132.53s/it]
+
+Epoch [94/500], loss_g: 5.3420, loss_d: 0.1604, real_score: 0.9635, fake_score: 0.0950
+Saving generated-images-0094.png
+100%
+196/196 [6:50:32<00:00, 125.68s/it]
+
+Epoch [95/500], loss_g: 4.9717, loss_d: 0.1082, real_score: 0.9585, fake_score: 0.0497
+Saving generated-images-0095.png
+100%
+196/196 [22:10<00:00, 6.79s/it]
+
+Epoch [96/500], loss_g: 6.7088, loss_d: 0.0228, real_score: 0.9941, fake_score: 0.0163
+Saving generated-images-0096.png
+100%
+196/196 [6:06:14<00:00, 112.11s/it]
+
+Epoch [97/500], loss_g: 7.5235, loss_d: 0.0420, real_score: 0.9950, fake_score: 0.0307
+Saving generated-images-0097.png
+100%
+196/196 [22:18<00:00, 6.83s/it]
+
+Epoch [98/500], loss_g: 5.6898, loss_d: 0.0338, real_score: 0.9983, fake_score: 0.0286
+Saving generated-images-0098.png
+100%
+196/196 [5:23:01<00:00, 98.89s/it]
+
+Epoch [99/500], loss_g: 5.7104, loss_d: 0.0965, real_score: 0.9621, fake_score: 0.0467
+Saving generated-images-0099.png
+100%
+196/196 [24:33<00:00, 7.52s/it]
+
+Epoch [100/500], loss_g: 7.7771, loss_d: 0.1664, real_score: 0.9993, fake_score: 0.1276
+Saving generated-images-0100.png
+100%
+196/196 [4:36:50<00:00, 84.75s/it]
+
+Epoch [101/500], loss_g: 0.8828, loss_d: 2.3338, real_score: 0.2483, fake_score: 0.0001
+Saving generated-images-0101.png
+100%
+196/196 [22:23<00:00, 6.85s/it]
+
+Epoch [102/500], loss_g: 5.8163, loss_d: 0.0171, real_score: 0.9981, fake_score: 0.0144
+Saving generated-images-0102.png
+100%
+196/196 [3:50:47<00:00, 70.65s/it]
+
+Epoch [103/500], loss_g: 5.8637, loss_d: 0.1262, real_score: 0.9883, fake_score: 0.0948
+Saving generated-images-0103.png
+100%
+196/196 [3:28:24<00:00, 63.80s/it]
+
+Epoch [104/500], loss_g: 5.9539, loss_d: 0.0265, real_score: 0.9893, fake_score: 0.0152
+Saving generated-images-0104.png
+100%
+196/196 [22:45<00:00, 6.97s/it]
+
+Epoch [105/500], loss_g: 0.9564, loss_d: 0.7532, real_score: 0.6230, fake_score: 0.0182
+Saving generated-images-0105.png
+100%
+196/196 [2:43:32<00:00, 50.07s/it]
+
+Epoch [106/500], loss_g: 4.6382, loss_d: 0.0627, real_score: 0.9625, fake_score: 0.0211
+Saving generated-images-0106.png
+100%
+196/196 [24:25<00:00, 7.48s/it]
+
+Epoch [107/500], loss_g: 5.2903, loss_d: 0.2518, real_score: 0.9490, fake_score: 0.1267
+Saving generated-images-0107.png
+100%
+196/196 [1:57:01<00:00, 35.82s/it]
+
+Epoch [108/500], loss_g: 5.4221, loss_d: 0.0637, real_score: 0.9761, fake_score: 0.0342
+Saving generated-images-0108.png
+100%
+196/196 [22:29<00:00, 6.88s/it]
+
+Epoch [109/500], loss_g: 6.0489, loss_d: 0.0592, real_score: 0.9828, fake_score: 0.0340
+Saving generated-images-0109.png
+100%
+196/196 [1:12:14<00:00, 22.12s/it]
+
+Epoch [110/500], loss_g: 5.5756, loss_d: 0.0673, real_score: 0.9852, fake_score: 0.0406
+Saving generated-images-0110.png
+100%
+196/196 [21:59<00:00, 6.73s/it]
+
+Epoch [111/500], loss_g: 6.8195, loss_d: 0.0776, real_score: 0.9804, fake_score: 0.0485
+Saving generated-images-0111.png
+100%
+196/196 [28:50<00:00, 8.83s/it]
+
+Epoch [112/500], loss_g: 4.5584, loss_d: 0.0617, real_score: 0.9726, fake_score: 0.0285
+Saving generated-images-0112.png
+100%
+196/196 [22:00<00:00, 6.74s/it]
+
+Epoch [113/500], loss_g: 3.9410, loss_d: 0.3961, real_score: 0.8161, fake_score: 0.0593
+Saving generated-images-0113.png
+100%
+196/196 [22:56<00:00, 7.02s/it]
+
+Epoch [114/500], loss_g: 6.6777, loss_d: 0.0217, real_score: 0.9945, fake_score: 0.0155
+Saving generated-images-0114.png
+100%
+196/196 [7:57:16<00:00, 146.10s/it]
+
+Epoch [115/500], loss_g: 5.3564, loss_d: 0.0765, real_score: 0.9614, fake_score: 0.0306
+Saving generated-images-0115.png
+100%
+196/196 [23:55<00:00, 7.32s/it]
+
+Epoch [116/500], loss_g: 7.3831, loss_d: 0.1727, real_score: 0.9914, fake_score: 0.1189
+Saving generated-images-0116.png
+100%
+196/196 [7:10:29<00:00, 131.78s/it]
+
+Epoch [117/500], loss_g: 6.5127, loss_d: 0.0454, real_score: 0.9872, fake_score: 0.0293
+Saving generated-images-0117.png
+100%
+196/196 [24:05<00:00, 7.37s/it]
+
+Epoch [118/500], loss_g: 6.4364, loss_d: 0.0436, real_score: 0.9975, fake_score: 0.0370
+Saving generated-images-0118.png
+100%
+196/196 [6:23:27<00:00, 117.38s/it]
+
+Epoch [119/500], loss_g: 6.1660, loss_d: 0.0881, real_score: 0.9725, fake_score: 0.0305
+Saving generated-images-0119.png
+100%
+196/196 [22:55<00:00, 7.02s/it]
+
+Epoch [120/500], loss_g: 5.8443, loss_d: 0.0488, real_score: 0.9895, fake_score: 0.0342
+Saving generated-images-0120.png
+100%
+196/196 [5:36:28<00:00, 103.00s/it]
+
+Epoch [121/500], loss_g: 6.1379, loss_d: 0.0323, real_score: 0.9855, fake_score: 0.0167
+Saving generated-images-0121.png
+100%
+196/196 [5:12:25<00:00, 95.64s/it]
+
+Epoch [122/500], loss_g: 7.1927, loss_d: 0.0898, real_score: 0.9960, fake_score: 0.0435
+Saving generated-images-0122.png
+100%
+196/196 [27:16<00:00, 8.35s/it]
+
+Epoch [123/500], loss_g: 7.3146, loss_d: 0.0924, real_score: 0.9976, fake_score: 0.0774
+Saving generated-images-0123.png
+100%
+196/196 [4:18:36<00:00, 79.17s/it]
+
+Epoch [124/500], loss_g: 4.2958, loss_d: 0.1362, real_score: 0.9032, fake_score: 0.0149
+Saving generated-images-0124.png
+100%
+196/196 [24:49<00:00, 7.60s/it]
+
+Epoch [125/500], loss_g: 4.8663, loss_d: 0.1264, real_score: 0.9488, fake_score: 0.0565
+Saving generated-images-0125.png
+100%
+196/196 [3:30:15<00:00, 64.36s/it]
+
+Epoch [126/500], loss_g: 2.2970, loss_d: 0.1973, real_score: 0.8380, fake_score: 0.0029
+Saving generated-images-0126.png
+100%
+196/196 [23:23<00:00, 7.16s/it]
+
+Epoch [127/500], loss_g: 7.2677, loss_d: 0.0227, real_score: 0.9896, fake_score: 0.0116
+Saving generated-images-0127.png
+100%
+196/196 [2:42:46<00:00, 49.83s/it]
+
+Epoch [128/500], loss_g: 5.8495, loss_d: 0.1682, real_score: 0.9954, fake_score: 0.1150
+Saving generated-images-0128.png
+100%
+196/196 [24:12<00:00, 7.41s/it]
+
+Epoch [129/500], loss_g: 5.6610, loss_d: 0.1678, real_score: 0.9526, fake_score: 0.0785
+Saving generated-images-0129.png
+100%
+196/196 [1:55:37<00:00, 35.40s/it]
+
+Epoch [130/500], loss_g: 5.0600, loss_d: 0.0169, real_score: 0.9970, fake_score: 0.0128
+Saving generated-images-0130.png
+100%
+196/196 [1:31:44<00:00, 28.08s/it]
+
+Epoch [131/500], loss_g: 6.3322, loss_d: 0.0752, real_score: 0.9812, fake_score: 0.0437
+Saving generated-images-0131.png
+100%
+196/196 [24:40<00:00, 7.55s/it]
+
+Epoch [132/500], loss_g: 6.7230, loss_d: 0.0517, real_score: 0.9861, fake_score: 0.0347
+Saving generated-images-0132.png
+100%
+196/196 [43:56<00:00, 13.45s/it]
+
+Epoch [133/500], loss_g: 7.8048, loss_d: 0.3440, real_score: 0.9863, fake_score: 0.1881
+Saving generated-images-0133.png
+100%
+196/196 [22:15<00:00, 6.81s/it]
+
+Epoch [134/500], loss_g: 3.0532, loss_d: 0.3810, real_score: 0.8038, fake_score: 0.0250
+Saving generated-images-0134.png
+100%
+196/196 [21:23<00:00, 6.55s/it]
+
+Epoch [135/500], loss_g: 2.1211, loss_d: 0.4156, real_score: 0.7820, fake_score: 0.0363
+Saving generated-images-0135.png
+100%
+196/196 [22:01<00:00, 6.74s/it]
+
+Epoch [136/500], loss_g: 6.9127, loss_d: 0.0403, real_score: 0.9947, fake_score: 0.0303
+Saving generated-images-0136.png
+100%
+196/196 [7:15:06<00:00, 133.20s/it]
+
+Epoch [137/500], loss_g: 7.0402, loss_d: 0.0806, real_score: 0.9796, fake_score: 0.0298
+Saving generated-images-0137.png
+100%
+196/196 [22:12<00:00, 6.80s/it]
+
+Epoch [138/500], loss_g: 7.0914, loss_d: 0.1172, real_score: 0.9409, fake_score: 0.0227
+Saving generated-images-0138.png
+100%
+196/196 [6:31:12<00:00, 119.76s/it]
+
+Epoch [139/500], loss_g: 5.2102, loss_d: 0.0552, real_score: 0.9735, fake_score: 0.0171
+Saving generated-images-0139.png
+100%
+196/196 [6:09:41<00:00, 113.17s/it]
+
+Epoch [140/500], loss_g: 6.3185, loss_d: 0.0627, real_score: 0.9803, fake_score: 0.0355
+Saving generated-images-0140.png
+100%
+196/196 [21:39<00:00, 6.63s/it]
+
+Epoch [141/500], loss_g: 8.7535, loss_d: 0.6246, real_score: 0.6926, fake_score: 0.0011
+Saving generated-images-0141.png
+100%
+196/196 [5:26:26<00:00, 99.93s/it]
+
+Epoch [142/500], loss_g: 5.3240, loss_d: 0.0763, real_score: 0.9983, fake_score: 0.0551
+Saving generated-images-0142.png
+100%
+196/196 [22:05<00:00, 6.76s/it]
+
+Epoch [143/500], loss_g: 6.5207, loss_d: 0.0872, real_score: 0.9687, fake_score: 0.0457
+Saving generated-images-0143.png
+100%
+196/196 [4:42:46<00:00, 86.56s/it]
+
+Epoch [144/500], loss_g: 4.1627, loss_d: 0.1762, real_score: 0.8987, fake_score: 0.0452
+Saving generated-images-0144.png
+100%
+196/196 [21:45<00:00, 6.66s/it]
+
+Epoch [145/500], loss_g: 4.7743, loss_d: 0.1066, real_score: 0.9615, fake_score: 0.0538
+Saving generated-images-0145.png
+100%
+196/196 [3:59:39<00:00, 73.36s/it]
+
+Epoch [146/500], loss_g: 6.1366, loss_d: 0.0485, real_score: 0.9924, fake_score: 0.0363
+Saving generated-images-0146.png
+100%
+196/196 [21:53<00:00, 6.70s/it]
+
+Epoch [147/500], loss_g: 4.5028, loss_d: 0.0744, real_score: 0.9419, fake_score: 0.0051
+Saving generated-images-0147.png
+100%
+196/196 [3:16:09<00:00, 60.05s/it]
+
+Epoch [148/500], loss_g: 7.4625, loss_d: 0.0216, real_score: 0.9898, fake_score: 0.0108
+Saving generated-images-0148.png
+100%
+196/196 [2:54:20<00:00, 53.37s/it]
+
+Epoch [149/500], loss_g: 8.4161, loss_d: 0.0064, real_score: 0.9968, fake_score: 0.0031
+Saving generated-images-0149.png
+100%
+196/196 [22:18<00:00, 6.83s/it]
+
+Epoch [150/500], loss_g: 4.5829, loss_d: 0.1184, real_score: 0.9121, fake_score: 0.0141
+Saving generated-images-0150.png
+100%
+196/196 [2:10:59<00:00, 40.10s/it]
+
+Epoch [151/500], loss_g: 7.2374, loss_d: 0.0466, real_score: 0.9826, fake_score: 0.0259
+Saving generated-images-0151.png
+100%
+196/196 [22:19<00:00, 6.83s/it]
+
+Epoch [152/500], loss_g: 5.1834, loss_d: 0.0191, real_score: 0.9997, fake_score: 0.0178
+Saving generated-images-0152.png
+100%
+196/196 [1:27:09<00:00, 26.68s/it]
+
+Epoch [153/500], loss_g: 6.2752, loss_d: 0.0427, real_score: 0.9868, fake_score: 0.0222
+Saving generated-images-0153.png
+100%
+196/196 [21:45<00:00, 6.66s/it]
+
+Epoch [154/500], loss_g: 4.4983, loss_d: 0.1496, real_score: 0.9126, fake_score: 0.0410
+Saving generated-images-0154.png
+100%
+196/196 [44:17<00:00, 13.56s/it]
+
+Epoch [155/500], loss_g: 1.1157, loss_d: 0.2679, real_score: 0.8092, fake_score: 0.0056
+Saving generated-images-0155.png
+100%
+196/196 [22:33<00:00, 6.91s/it]
+
+Epoch [156/500], loss_g: 6.6382, loss_d: 0.0435, real_score: 0.9766, fake_score: 0.0158
+Saving generated-images-0156.png
+100%
+196/196 [22:39<00:00, 6.94s/it]
+
+Epoch [157/500], loss_g: 6.5843, loss_d: 0.0183, real_score: 0.9979, fake_score: 0.0152
+Saving generated-images-0157.png
+100%
+196/196 [23:22<00:00, 7.16s/it]
+
+Epoch [158/500], loss_g: 4.3729, loss_d: 0.1128, real_score: 0.9212, fake_score: 0.0129
+Saving generated-images-0158.png
+100%
+196/196 [8:14:12<00:00, 151.29s/it]
+
+Epoch [159/500], loss_g: 8.4917, loss_d: 0.0087, real_score: 0.9980, fake_score: 0.0065
+Saving generated-images-0159.png
+100%
+196/196 [23:08<00:00, 7.09s/it]
+
+Epoch [160/500], loss_g: 6.1292, loss_d: 0.0497, real_score: 0.9857, fake_score: 0.0293
+Saving generated-images-0160.png
+100%
+196/196 [7:28:34<00:00, 137.32s/it]
+
+Epoch [161/500], loss_g: 6.1040, loss_d: 0.0505, real_score: 0.9649, fake_score: 0.0110
+Saving generated-images-0161.png
+100%
+196/196 [23:01<00:00, 7.05s/it]
+
+Epoch [162/500], loss_g: 0.9813, loss_d: 0.2674, real_score: 0.8114, fake_score: 0.0026
+Saving generated-images-0162.png
+100%
+196/196 [6:43:18<00:00, 123.46s/it]
+
+Epoch [163/500], loss_g: 7.7172, loss_d: 0.0431, real_score: 0.9686, fake_score: 0.0091
+Saving generated-images-0163.png
+100%
+196/196 [23:24<00:00, 7.17s/it]
+
+Epoch [164/500], loss_g: 6.3071, loss_d: 0.0292, real_score: 0.9953, fake_score: 0.0216
+Saving generated-images-0164.png
+100%
+196/196 [5:57:32<00:00, 109.45s/it]
+
+Epoch [165/500], loss_g: 6.3859, loss_d: 0.3880, real_score: 0.9932, fake_score: 0.1668
+Saving generated-images-0165.png
+100%
+196/196 [28:51<00:00, 8.84s/it]
+
+Epoch [166/500], loss_g: 7.9500, loss_d: 0.0359, real_score: 0.9811, fake_score: 0.0128
+Saving generated-images-0166.png
+100%
+196/196 [5:09:40<00:00, 94.80s/it]
+
+Epoch [167/500], loss_g: 7.2843, loss_d: 0.0641, real_score: 0.9951, fake_score: 0.0479
+Saving generated-images-0167.png
+100%
+196/196 [23:05<00:00, 7.07s/it]
+
+Epoch [168/500], loss_g: 2.5119, loss_d: 0.7428, real_score: 0.6904, fake_score: 0.0163
+Saving generated-images-0168.png
+100%
+196/196 [4:23:50<00:00, 80.77s/it]
+
+Epoch [169/500], loss_g: 4.8719, loss_d: 0.0989, real_score: 0.9551, fake_score: 0.0300
+Saving generated-images-0169.png
+100%
+196/196 [23:00<00:00, 7.04s/it]
+
+Epoch [170/500], loss_g: 6.4457, loss_d: 0.0248, real_score: 0.9843, fake_score: 0.0081
+Saving generated-images-0170.png
+100%
+196/196 [3:38:24<00:00, 66.86s/it]
+
+Epoch [171/500], loss_g: 5.5218, loss_d: 0.0611, real_score: 0.9799, fake_score: 0.0278
+Saving generated-images-0171.png
+100%
+196/196 [23:14<00:00, 7.12s/it]
+
+Epoch [172/500], loss_g: 1.3414, loss_d: 0.2300, real_score: 0.8272, fake_score: 0.0062
+Saving generated-images-0172.png
+100%
+196/196 [2:52:54<00:00, 52.93s/it]
+
+Epoch [173/500], loss_g: 6.8456, loss_d: 0.0774, real_score: 0.9954, fake_score: 0.0492
+Saving generated-images-0173.png
+100%
+196/196 [22:57<00:00, 7.03s/it]
+
+Epoch [174/500], loss_g: 6.2502, loss_d: 0.0148, real_score: 0.9944, fake_score: 0.0088
+Saving generated-images-0174.png
+100%
+196/196 [2:07:20<00:00, 38.98s/it]
+
+Epoch [175/500], loss_g: 7.2492, loss_d: 0.0198, real_score: 0.9934, fake_score: 0.0127
+Saving generated-images-0175.png
+100%
+196/196 [1:44:37<00:00, 32.03s/it]
+
+Epoch [176/500], loss_g: 1.0157, loss_d: 1.9835, real_score: 0.3679, fake_score: 0.0001
+Saving generated-images-0176.png
+100%
+196/196 [24:20<00:00, 7.45s/it]
+
+Epoch [177/500], loss_g: 7.0219, loss_d: 0.0327, real_score: 0.9743, fake_score: 0.0055
+Saving generated-images-0177.png
+100%
+196/196 [57:47<00:00, 17.69s/it]
+
+Epoch [178/500], loss_g: 7.0789, loss_d: 0.0322, real_score: 0.9996, fake_score: 0.0288
+Saving generated-images-0178.png
+100%
+196/196 [32:11<00:00, 9.85s/it]
+
+Epoch [179/500], loss_g: 5.9427, loss_d: 0.0805, real_score: 0.9611, fake_score: 0.0248
+Saving generated-images-0179.png
+100%
+196/196 [25:24<00:00, 7.78s/it]
+
+Epoch [180/500], loss_g: 2.3151, loss_d: 0.7825, real_score: 0.7227, fake_score: 0.0210
+Saving generated-images-0180.png
+100%
+196/196 [24:40<00:00, 7.56s/it]
+
+Epoch [181/500], loss_g: 9.3414, loss_d: 0.1809, real_score: 0.9855, fake_score: 0.1183
+Saving generated-images-0181.png
+100%
+196/196 [7:52:18<00:00, 144.58s/it]
+
+Epoch [182/500], loss_g: 6.9222, loss_d: 0.0730, real_score: 0.9687, fake_score: 0.0315
+Saving generated-images-0182.png
+100%
+196/196 [24:16<00:00, 7.43s/it]
+
+Epoch [183/500], loss_g: 6.4269, loss_d: 0.0219, real_score: 0.9863, fake_score: 0.0076
+Saving generated-images-0183.png
+100%
+196/196 [7:04:12<00:00, 129.86s/it]
+
+Epoch [184/500], loss_g: 8.2315, loss_d: 0.0549, real_score: 0.9691, fake_score: 0.0139
+Saving generated-images-0184.png
+100%
+196/196 [6:41:48<00:00, 123.00s/it]
+
+Epoch [185/500], loss_g: 6.4438, loss_d: 0.0191, real_score: 0.9881, fake_score: 0.0063
+Saving generated-images-0185.png
+100%
+196/196 [23:30<00:00, 7.20s/it]
+
+Epoch [186/500], loss_g: 7.5810, loss_d: 0.1223, real_score: 0.9136, fake_score: 0.0027
+Saving generated-images-0186.png
+100%
+196/196 [5:55:53<00:00, 108.95s/it]
+
+Epoch [187/500], loss_g: 5.8873, loss_d: 0.0616, real_score: 0.9544, fake_score: 0.0053
+Saving generated-images-0187.png
+100%
+196/196 [24:26<00:00, 7.48s/it]
+
+Epoch [188/500], loss_g: 6.4478, loss_d: 0.0229, real_score: 0.9932, fake_score: 0.0151
+Saving generated-images-0188.png
+100%
+196/196 [5:08:05<00:00, 94.31s/it]
+
+Epoch [189/500], loss_g: 7.0953, loss_d: 0.0617, real_score: 0.9474, fake_score: 0.0039
+Saving generated-images-0189.png
+100%
+196/196 [23:47<00:00, 7.28s/it]
+
+Epoch [190/500], loss_g: 1.8778, loss_d: 0.1622, real_score: 0.8747, fake_score: 0.0082
+Saving generated-images-0190.png
+100%
+196/196 [4:21:06<00:00, 79.93s/it]
+
+Epoch [191/500], loss_g: 8.9887, loss_d: 0.0586, real_score: 0.9820, fake_score: 0.0206
+Saving generated-images-0191.png
+100%
+196/196 [24:19<00:00, 7.45s/it]
+
+Epoch [192/500], loss_g: 6.9129, loss_d: 0.0170, real_score: 0.9926, fake_score: 0.0079
+Saving generated-images-0192.png
+100%
+196/196 [3:33:04<00:00, 65.23s/it]
+
+Epoch [193/500], loss_g: 6.5772, loss_d: 0.1221, real_score: 0.9638, fake_score: 0.0565
+Saving generated-images-0193.png
+100%
+196/196 [3:08:18<00:00, 57.65s/it]
+
+Epoch [194/500], loss_g: 7.4466, loss_d: 0.1152, real_score: 0.9912, fake_score: 0.0548
+Saving generated-images-0194.png
+100%
+196/196 [23:53<00:00, 7.32s/it]
+
+Epoch [195/500], loss_g: 6.1339, loss_d: 0.0218, real_score: 0.9910, fake_score: 0.0120
+Saving generated-images-0195.png
+100%
+196/196 [2:20:26<00:00, 42.99s/it]
+
+Epoch [196/500], loss_g: 6.7110, loss_d: 0.0682, real_score: 0.9718, fake_score: 0.0299
+Saving generated-images-0196.png
+100%
+196/196 [22:59<00:00, 7.04s/it]
+
+Epoch [197/500], loss_g: 1.7049, loss_d: 0.3158, real_score: 0.7874, fake_score: 0.0053
+Saving generated-images-0197.png
+100%
+196/196 [1:33:57<00:00, 28.76s/it]
+
+Epoch [198/500], loss_g: 1.7571, loss_d: 0.4311, real_score: 0.7578, fake_score: 0.0005
+Saving generated-images-0198.png
+100%
+196/196 [23:04<00:00, 7.06s/it]
+
+Epoch [199/500], loss_g: 4.9689, loss_d: 0.0721, real_score: 0.9575, fake_score: 0.0176
+Saving generated-images-0199.png
+100%
+196/196 [48:37<00:00, 14.88s/it]
+
+Epoch [200/500], loss_g: 7.1949, loss_d: 0.0262, real_score: 0.9996, fake_score: 0.0221
+Saving generated-images-0200.png
+100%
+196/196 [26:00<00:00, 7.96s/it]
+
+Epoch [201/500], loss_g: 3.2545, loss_d: 0.4247, real_score: 0.7944, fake_score: 0.0486
+Saving generated-images-0201.png
+100%
+196/196 [22:34<00:00, 6.91s/it]
+
+Epoch [202/500], loss_g: 8.7619, loss_d: 0.0480, real_score: 0.9608, fake_score: 0.0047
+Saving generated-images-0202.png
+100%
+196/196 [29:20<00:00, 8.98s/it]
+
+Epoch [203/500], loss_g: 7.9846, loss_d: 0.3181, real_score: 0.8787, fake_score: 0.0207
+Saving generated-images-0203.png
+100%
+196/196 [24:03<00:00, 7.37s/it]
+
+Epoch [204/500], loss_g: 5.7780, loss_d: 0.0250, real_score: 0.9883, fake_score: 0.0123
+Saving generated-images-0204.png
+100%
+196/196 [23:11<00:00, 7.10s/it]
+
+Epoch [205/500], loss_g: 5.3058, loss_d: 0.0238, real_score: 0.9883, fake_score: 0.0111
+Saving generated-images-0205.png
+100%
+196/196 [26:44<00:00, 8.19s/it]
+
+Epoch [206/500], loss_g: 7.7893, loss_d: 0.0672, real_score: 0.9496, fake_score: 0.0106
+Saving generated-images-0206.png
+100%
+196/196 [23:04<00:00, 7.07s/it]
+
+Epoch [207/500], loss_g: 4.8132, loss_d: 0.0981, real_score: 0.9327, fake_score: 0.0156
+Saving generated-images-0207.png
+100%
+196/196 [25:40<00:00, 7.86s/it]
+
+Epoch [208/500], loss_g: 6.6519, loss_d: 0.1629, real_score: 0.8821, fake_score: 0.0004
+Saving generated-images-0208.png
+100%
+196/196 [22:57<00:00, 7.03s/it]
+
+Epoch [209/500], loss_g: 6.5372, loss_d: 0.0915, real_score: 0.9628, fake_score: 0.0196
+Saving generated-images-0209.png
+100%
+196/196 [22:43<00:00, 6.96s/it]
+
+Epoch [210/500], loss_g: 6.7081, loss_d: 0.0227, real_score: 0.9860, fake_score: 0.0077
+Saving generated-images-0210.png
+100%
+196/196 [31:00<00:00, 9.49s/it]
+
+Epoch [211/500], loss_g: 11.5073, loss_d: 0.0064, real_score: 0.9965, fake_score: 0.0028
+Saving generated-images-0211.png
+100%
+196/196 [22:28<00:00, 6.88s/it]
+
+Epoch [212/500], loss_g: 7.9966, loss_d: 0.0081, real_score: 0.9989, fake_score: 0.0068
+Saving generated-images-0212.png
+100%
+196/196 [25:30<00:00, 7.81s/it]
+
+Epoch [213/500], loss_g: 8.3009, loss_d: 0.0409, real_score: 0.9978, fake_score: 0.0301
+Saving generated-images-0213.png
+100%
+196/196 [22:44<00:00, 6.96s/it]
+
+Epoch [214/500], loss_g: 8.5179, loss_d: 0.1452, real_score: 0.9744, fake_score: 0.0567
+Saving generated-images-0214.png
+100%
+196/196 [23:43<00:00, 7.26s/it]
+
+Epoch [215/500], loss_g: 6.3372, loss_d: 0.1356, real_score: 0.9327, fake_score: 0.0401
+Saving generated-images-0215.png
+100%
+196/196 [26:12<00:00, 8.02s/it]
